@@ -1,2 +1,2 @@
 # google_cloud_labs_notes
-notes &amp; commands from Google Cloud Skills Boost labs
+This repository contains hands-on notes &amp; commands from Google Cloud Skills Boost labs
